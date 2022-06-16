@@ -1,5 +1,5 @@
 ## Hello I'm Gustavo
-## Welcome to my GitHub Page
+Welcome to my GitHub Page
 
 You can use the [editor on GitHub](https://github.com/GustavoBM03/GustavoBorgesM.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
